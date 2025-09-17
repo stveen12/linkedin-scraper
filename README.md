@@ -29,3 +29,9 @@ This script collects and downloads LinkedIn profiles (as PDFs) from the **“Peo
 ## 📂 Output
 All downloaded PDFs will appear in the `downloads` folder:
 
+
+## 🧩 Installation
+Create a virtual environment (optional but recommended):
+Install the required libraries:
+pip install -r requirements.txt
+
