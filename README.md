@@ -31,7 +31,7 @@ All downloaded PDFs will appear in the `downloads` folder:
 
 
 ## 🧩 Installation
-Create a virtual environment (optional but recommended):
-Install the required libraries:
-pip install -r requirements.txt
+- Create a virtual environment
+- Install the required libraries
+- pip install -r requirements.txt
 
